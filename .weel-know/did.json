@@ -3,17 +3,17 @@
       "https://www.w3.org/ns/did/v1",
       "https://w3c-ccg.github.io/lds-jws2020/contexts/v1/"
     ],
-    "id": "did:web:robertoOlmedo .github.io",
+    "id": "did:web:robertoOlmedo.github.io",
     "verificationMethod": [{
-      "id": "did:web:robertoOlmedo .github.io#keys-1",
+      "id": "did:web:robertoOlmedo.github.io#keys-1",
       "type": "JsonWebKey2020",
-      "controller": "did:web:robertoOlmedo .github.io",
+      "controller": "did:web:robertoOlmedo.github.io",
       "publicKeyJwk": {"kty":"RSA",
       "n":"toH9UIIr9NVxyfMND7On3RIFNo5gdE9qs7splajQgJuNkB61SeDy4c-s77TbKC4ATVTDoZop6nzwVkj6nxYG6t5YRtOKiuwLHgr2anLuCZArdtuGnE9zEyiXtrIK-6wrnx_Xg9x8JloW2GuoDJUeXjliscNFcWWVX9DJmQYJ0mFbIOZHOHwkL77GG0YMe_nYiGPF6Cfc0lcf7NwIgEXWSHhn89NqQPtLPw4rN54S9o5cKCXj6obGlllCIQXvyrUBxL_FMg-QKaNXKNtDUGWfQwv-x6-CNhMVONPn1nBhyFCCiwUbJ4V1zbI84mmCP3UffYwcbBdFVe6Z8g3E8suomw",
       "e":"AQAB",
        "alg": "RS256"}
     }],
     "assertionMethod": [
-      "did:web:robertoOlmedo .github.io#keys-1"
+      "did:web:robertoOlmedo.github.io#keys-1"
     ]
   }
